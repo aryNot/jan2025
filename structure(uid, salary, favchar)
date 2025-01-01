@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main(){
+    
+    struct employee{
+        int uid;
+        char favchar;
+        float salary;
+    };
+    struct employee aryan;
+    aryan.uid = 7;
+    aryan.favchar = 'a';
+    aryan.salary = 240000.64;
+    cout<<"aryan salary is: "<<aryan.salary<<endl;
+    cout<<"aryan favourate char is: "<<aryan.favchar<<endl;
+    cout<<"aryan uid is: "<<aryan.uid<<endl;
+    
+    
+    return 0;
+}
