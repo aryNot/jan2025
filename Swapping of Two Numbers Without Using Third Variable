@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+  //swapping without usiong the third variable  
+  int a=10,b=20;
+  a=a+b;
+  b=a-b;
+  a=a-b;
+  
+  cout<<"value after swapping are "<<a<<" "<<b<<endl;
+ 
+    return 0;
+}
