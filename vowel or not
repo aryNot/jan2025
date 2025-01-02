@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   
+   char c;
+   cout<<"enter an alphabet "<<endl;
+   cin>>c;
+   
+   if(c=='a' || c=='A' || c=='e' || c=='E' || c=='i' || 
+      c=='I' || c=='o' || c=='O' || c=='u' || c=='u'){
+        cout<<c<<" character is a vowel";
+      }
+      else{
+          cout<<c<<" is a not a vowel";
+      }
+      
+   
+    return 0;
+}
