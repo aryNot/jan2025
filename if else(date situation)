@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int budget;
+	
+	cout<<"enter you budget:";
+	cin>>budget;
+	
+	if(budget>500){
+		cout<<"date with harshita";
+	}
+	
+	else if(budget>200){
+		cout<<"date with sanskriti";
+	}
+	else
+	cout<<"tu doston ke saath hi ghumle";
+
+	return 0;
+}
