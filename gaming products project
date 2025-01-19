@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>product catalog website</title>
+</head>
+
+<body>
+    <header>
+        <h1>gaming products</h1>
+    </header>
+    <section>
+        <h1><b><u>1.Gaming mouse</u></b></h1>
+        <img src="https://t3.ftcdn.net/jpg/06/25/07/28/360_F_625072874_eRoy4HUb8IOzTxCnS6jLT32ChaPG3rvb.jpg" width="234"
+            alt="mouse">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam accusantium inventore, mollitia autem enim
+            est deserunt aliquam, ratione quia excepturi ea eum, quis sunt corporis facere cupiditate ipsam odio
+            sapiente minima itaque necessitatibus reprehenderit modi. Quo iure, error eaque repellendus aspernatur vitae
+            dolor unde accusamus, adipisci quod molestiae, earum itaque!</p>
+        <p><b>PRICE=$200</b></p>
+    </section>
+    <hr>
+    <section>
+        <h1><u><b>2.Gaming keyboard</b></u></h1>
+        <img src="https://imgs.search.brave.com/l_ZZzBYQiM6gOrkYmJxZl_4FkzrgjWPoCzz_VlpznDY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ya2dh/bWluZ3N0b3JlLmNv/bS9jZG4vc2hvcC9w/cm9kdWN0cy83NXBl/cmNlbnRrZXlib3Jk/LmpwZz92PTE2NTgx/MTUyOTU"
+            width="234" alt="keyboard">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit atque dicta architecto ipsum voluptatem
+            laborum quia tenetur perferendis vel aut, rem, odio error ut! Dolorum sequi voluptas eius rerum odit totam.
+            Iusto eaque ullam, consectetur quaerat nisi numquam, sed repellat aliquid omnis quod, magnam distinctio
+            explicabo provident vitae corrupti unde!</p>
+        <p>PRICE=$300</p>
+    </section>
+    <hr>
+    <section>
+        <h1><u><b>3.Wireless headphone</b></u></h1>
+        <img src="https://imgs.search.brave.com/3mbii5EH8AJGp5fOHIT4BRwjOHABdk-504UXu74OrO8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zaG9w/LnplYnJvbmljcy5j/b20vY2RuL3Nob3Av/ZmlsZXMvWmViLUhh/dm9jLXBpYzEuanBn/P3Y9MTcxNzIyMTc3/NCZ3aWR0aD0xMjAw"
+            width="234" alt="headphones">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit atque dicta architecto ipsum voluptatem
+            laborum quia tenetur perferendis vel aut, rem, odio error ut! Dolorum sequi voluptas eius rerum odit totam.
+            Iusto eaque ullam, consectetur quaerat nisi numquam, sed repellat aliquid omnis quod, magnam distinctio
+            explicabo provident vitae corrupti unde!</p>
+        <p>PRICE=$210</p>
+    </section>
+    <footer>
+        <p>&copy;made by Aryan nath</p>
+    </footer>
+</body>
+
+</html>
